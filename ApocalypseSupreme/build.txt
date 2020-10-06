@@ -1,0 +1,3 @@
+displayName = Apocalypse Supreme 
+author = Vintage
+version = 0.1
